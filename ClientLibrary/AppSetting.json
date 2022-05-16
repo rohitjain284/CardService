@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "HdfcConnectionString": "Server=address;Database=databasename;User Id=username;Password=password;",
+    "HdfcServiceUrl": "https://www.hdfcdomain.com/GetCustomer",
+    "HdfcAuthenticationParams": "param1234",
+    "IciciConnectionString": "Server=address;Database=databasename;User Id=username;Password=password;",
+    "IciciServiceUrl": "https://www.icicidomain.com/GetCustomer",
+    "IciciAuthenticationParams": "param5678"
+  }
+}
